@@ -4,13 +4,13 @@ This repo contains cheat sheets + data structures & algorithms templates useful 
 
 ### Cheat Sheets
 - [**A/B Testing**](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets/blob/main/cheat-sheets/ab-testing.pdf): 4 step process to approach "design an experiment" interview questions
-- [**Metrics Cases**](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets/blob/main/cheat-sheets/metrics-cases.pdf): Tips for approaching data science metrics/product interviews like "why are friend requests down 10%"
-- [**ML Models Code**](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets/blob/main/cheat-sheets/ml-models-code.ipynb): Python implementations of most popular classical ML models (most of the code is from [MLfromScratch](https://github.com/python-engineer/MLfromscratch))
-- [**ML Models**](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets/blob/main/cheat-sheets/ml-models.pdf): Important details to know for most popular classical ML models includings pros/cons, assumptions, and formulas
+- [**Metrics Cases**](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets/blob/main/cheat-sheets/metrics-cases.pdf): Tips for data science metrics/product interviews like "why are friend requests down 10%"
+- [**ML Models Code**](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets/blob/main/cheat-sheets/ml-models-code.ipynb): Python code for popular classical ML models (most of code from [MLfromScratch](https://github.com/python-engineer/MLfromscratch))
+- [**ML Models**](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets/blob/main/cheat-sheets/ml-models.pdf): Details on popular classical ML models  (e.g. pros & cons, assumptions, formulas, etc.)
 - [**ML System Design**](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets/blob/main/cheat-sheets/ml-system-design.pdf): 4 step process to approach "design a model" interview questions
-- [**ML Theory**](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets/blob/main/cheat-sheets/ml-theory.pdf): Important details to know about the general ML modeling process (e.g. cross validation, precision vs recall, etc.)
-- [**Statistics**](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets/blob/main/cheat-sheets/statistics.pdf): Basic statistical concepts including probability, hypothesis testing, bayesian vs frequentist etc.
-- [**System Design**](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets/blob/main/cheat-sheets/system-design.pdf): 4 step process to approach "design Twitter" type interview questions as well as important system design topics (e.g. load balancers, caching, etc.)
+- [**ML Theory**](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets/blob/main/cheat-sheets/ml-theory.pdf): Details on the general ML modeling process (e.g. cross validation, precision vs recall, etc.)
+- [**Statistics**](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets/blob/main/cheat-sheets/statistics.pdf): Basic statistical concepts (e.g. probability, hypothesis testing, bayesian vs frequentist etc.)
+- [**System Design**](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets/blob/main/cheat-sheets/system-design.pdf): 4 step system design process and general topics (e.g. load balancing, caching, etc.)
 
 ### LeetCode Templates
 - **Binary Search**: Coming soon
