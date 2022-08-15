@@ -18,7 +18,7 @@ This repo contains cheat sheets + data structures & algorithms templates useful 
 ### LeetCode Templates
 - **Binary Search**: Coming soon
 - **Binary Tree Traversals**: Coming soon
-- **Breadth First Search**: Coming soon
+- [**Breadth First Search**](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets/blob/main/leetcode-templates/bfs.ipynb)
 - **Depth First Search**: Coming soon
 - **Backtracking**: Coming soon
 - **Prim's Algorithm for Minimum Spanning Tree**: Coming soon
