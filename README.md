@@ -27,4 +27,4 @@ Note, the goal of these templates isn’t so much as to teach you the algorithms
 - [**Backtracking**](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets/blob/main/leetcode-templates/backtrack.ipynb)
 - **Prim's Algorithm for Minimum Spanning Tree**: Coming soon
 - **Dijkstra's Algorithm for Shortest Weighted Path**: Coming soon
-- **Kahn's Algorithm for Topological Sorting**: Coming soon
+- [**Kahn's Algorithm for Topological Sorting**](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets/blob/main/leetcode-templates/topological-sort.ipynb)
